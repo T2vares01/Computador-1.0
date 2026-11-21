@@ -6,8 +6,6 @@ Um FPGA (Field-Programmable Gate Array) é um circuito integrado programável qu
 Fatos-chave
 Sigla: Field-Programmable Gate Array
 
-Principais fabricantes: Xilinx (AMD), Intel (Altera), Lattice Semiconductor, Microchip
-
 Configuração: Por memória volátil, via bitstream
 
 Aplicações típicas: Processamento de sinais, controle industrial, aceleração de IA, prototipagem
